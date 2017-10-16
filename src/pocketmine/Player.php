@@ -661,7 +661,7 @@ class Player extends Human implements CommandSender, ChunkLoader, IPlayer{
 
 	/**
 	 * @param SourceInterface $interface
-	 * @param null            $clientID
+	 * @param mixed           $clientID
 	 * @param string          $ip
 	 * @param int             $port
 	 */
